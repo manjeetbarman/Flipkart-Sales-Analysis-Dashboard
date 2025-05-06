@@ -8,7 +8,7 @@ This project focuses on exploring and visualizing Flipkart's sales data to ident
 
 ## 🚀 Key Features
 
-- **Category & Product-Level Analysis**  
+- **Category & Product-Level Analysis**   
   Visualize best-selling categories and products, along with contribution to overall revenue.
 
 - **Time-Based Trends**  
