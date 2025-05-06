@@ -39,3 +39,6 @@ This project focuses on exploring and visualizing Flipkart's sales data to ident
 - Sales optimization across categories  
 - Executive reporting for business strategy
 
+## 📷 Dashboard Preview
+
+https://github.com/manjeetbarman/Flipkart-Sales-Analysis-Dashboard/blob/main/Flipkart%20Sales%20Dashboard%20Image.png
